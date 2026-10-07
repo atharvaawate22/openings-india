@@ -1,0 +1,85 @@
+{
+  "source": {
+    "url": "https://api.ashbyhq.com/posting-api/job-board/openai",
+    "method": "GET",
+    "fetchedAt": "2026-10-07T20:35:49.158Z",
+    "status": 200,
+    "totalJobs": 817
+  },
+  "sample": {
+    "jobs": [
+      {
+        "id": "8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+        "title": "Technical Program Manager, Compute Infrastructure",
+        "department": "Technical Program Management",
+        "team": "Technical Program Management",
+        "employmentType": "FullTime",
+        "location": "San Francisco",
+        "secondaryLocations": [],
+        "publishedAt": "2026-03-12T16:38:15.322+00:00",
+        "isListed": true,
+        "isRemote": null,
+        "workplaceType": null,
+        "address": {
+          "postalAddress": {
+            "addressRegion": "California",
+            "addressCountry": "United States",
+            "addressLocality": "San Francisco"
+          }
+        },
+        "jobUrl": "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+        "applyUrl": "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3/application",
+        "descriptionHtml": "<h3><strong>About the Team</strong></h3><p style=\"min-height:1.5em\">The compute infrastructure team runs the GPU fleet and large-scale compute clusters that serve the models backing ChatGPT and the API, while also supporting training workloads for our next generation models. We operate a large, mode…[truncated 8304 chars]",
+        "descriptionPlain": "ABOUT THE TEAM\n\nThe compute infrastructure team runs the GPU fleet and large-scale compute clusters that serve the models backing ChatGPT and the API, while also supporting training workloads for our next generation models. We operate a large, modern GPU fleet and provide a unified platform for othe…[truncated 6591 chars]"
+      },
+      {
+        "id": "240d459b-696d-43eb-8497-fab3e56ecd9b",
+        "title": "Research Engineer",
+        "department": "Research",
+        "team": "Research",
+        "employmentType": "FullTime",
+        "location": "San Francisco",
+        "secondaryLocations": [],
+        "publishedAt": "2025-04-05T00:03:20.653+00:00",
+        "isListed": true,
+        "isRemote": null,
+        "workplaceType": null,
+        "address": {
+          "postalAddress": {
+            "addressRegion": "California",
+            "addressCountry": "United States",
+            "addressLocality": "San Francisco"
+          }
+        },
+        "jobUrl": "https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b",
+        "applyUrl": "https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b/application",
+        "descriptionHtml": "<p style=\"min-height:1.5em\">By applying to this role, you will be considered for Research Engineer roles across all teams at OpenAI.</p><p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">As a Research Engineer here, you will be responsible for building AI syst…[truncated 4819 chars]",
+        "descriptionPlain": "By applying to this role, you will be considered for Research Engineer roles across all teams at OpenAI.\n\nAbout the Role\n\nAs a Research Engineer here, you will be responsible for building AI systems that can perform previously impossible tasks or achieve unprecedented levels of performance. We're lo…[truncated 3676 chars]"
+      },
+      {
+        "id": "18f58952-c242-4562-8732-073a0ae8029e",
+        "title": "Account Director, Large Enterprise - Tokyo",
+        "department": "Go To Market",
+        "team": "Sales",
+        "employmentType": "FullTime",
+        "location": "Tokyo, Japan",
+        "secondaryLocations": [],
+        "publishedAt": "2026-01-23T00:17:18.483+00:00",
+        "isListed": true,
+        "isRemote": null,
+        "workplaceType": null,
+        "address": {
+          "postalAddress": {
+            "addressCountry": "Japan",
+            "addressLocality": "Tokyo"
+          }
+        },
+        "jobUrl": "https://jobs.ashbyhq.com/openai/18f58952-c242-4562-8732-073a0ae8029e",
+        "applyUrl": "https://jobs.ashbyhq.com/openai/18f58952-c242-4562-8732-073a0ae8029e/application",
+        "descriptionHtml": "<p style=\"min-height:1.5em\"><strong>About the team</strong></p><p style=\"min-height:1.5em\">OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into…[truncated 9129 chars]",
+        "descriptionPlain": "About the team\n\nOpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this.\n\nIn pursuit of this mission, our Go T…[truncated 6859 chars]"
+      }
+    ],
+    "apiVersion": "1"
+  }
+}

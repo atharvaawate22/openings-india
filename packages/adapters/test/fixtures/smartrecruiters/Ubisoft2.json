@@ -1,0 +1,376 @@
+{
+  "source": {
+    "url": "https://api.smartrecruiters.com/v1/companies/Ubisoft2/postings?limit=10",
+    "method": "GET",
+    "fetchedAt": "2026-10-07T20:36:19.906Z",
+    "status": 200,
+    "totalJobs": 10
+  },
+  "sample": {
+    "offset": 0,
+    "limit": 10,
+    "totalFound": 329,
+    "content": [
+      {
+        "id": "744000154183674",
+        "name": "Senior Engine Programmer - OS (Game Network)",
+        "uuid": "3ab95f33-eae7-41cb-96d5-f0cabf689e1a",
+        "jobAdId": "4e05d908-2f57-4c17-8026-16482264874d",
+        "defaultJobAd": false,
+        "refNumber": "REF31766L",
+        "company": {
+          "identifier": "Ubisoft2",
+          "name": "Ubisoft"
+        },
+        "releasedDate": "2026-10-07T19:41:46.641Z",
+        "location": {
+          "city": "Montreal",
+          "region": "QC",
+          "country": "ca",
+          "remote": false,
+          "hybrid": false,
+          "latitude": "45.5018869",
+          "longitude": "-73.56739189999999",
+          "fullLocation": "Montreal, QC, Canada"
+        },
+        "industry": {
+          "id": "entertainment",
+          "label": "Entertainment"
+        },
+        "department": {
+          "id": "13847731",
+          "label": "Ubisoft"
+        },
+        "function": {
+          "id": "engineering",
+          "label": "Engineering"
+        },
+        "typeOfEmployment": {
+          "id": "permanent",
+          "label": "Full-time"
+        },
+        "experienceLevel": {
+          "id": "mid_senior_level",
+          "label": "Mid-Senior Level"
+        },
+        "customField": [
+          {
+            "fieldId": "56c253c2e4b0cabf01d19d37",
+            "fieldLabel": "Organizational Unit",
+            "valueId": "21cb51c2-24e9-4088-8f65-52ce10f74bcf",
+            "valueLabel": "Montréal studio"
+          },
+          {
+            "fieldId": "5bb3995c6d8bc56bc081b87d",
+            "fieldLabel": "Contract",
+            "valueId": "b5a86fc0-2681-4b3c-98b6-b73a4be23ef1",
+            "valueLabel": "Permanent"
+          },
+          {
+            "fieldId": "68e4ce369c52964c7125078a",
+            "fieldLabel": "Job Family",
+            "valueId": "43fccb43-cd89-4548-ab8b-24ab8e79edec",
+            "valueLabel": "Software Development"
+          },
+          {
+            "fieldId": "56d1aa7ae4b0a07f777a4ef4",
+            "fieldLabel": "Brands",
+            "valueId": "default",
+            "valueLabel": "Ubisoft"
+          },
+          {
+            "fieldId": "6904811aa8fa2db78e2ee2ed",
+            "fieldLabel": "Job  Function",
+            "valueId": "8e60dc05-6a4b-413f-b15f-d2835a159f14",
+            "valueLabel": "Software Development Core Tech"
+          },
+          {
+            "fieldId": "691ca2ee342dfb96e5364508",
+            "fieldLabel": "Reference Job",
+            "valueId": "ef182cae-3a69-46c2-8f03-438eb4eaf794",
+            "valueLabel": "Software Developer Core Tech Engine"
+          },
+          {
+            "fieldId": "6a158e3c77b1f5657b57af9d",
+            "fieldLabel": "Management Unit L0&1 (New)",
+            "valueId": "f0bd3708-c5ff-47b1-9104-b83a1b4071d2",
+            "valueLabel": "UBISOFT"
+          },
+          {
+            "fieldId": "58b7e4d0e4b09a6d37a0cd8b",
+            "fieldLabel": "Department",
+            "valueId": "13847731",
+            "valueLabel": "Ubisoft"
+          },
+          {
+            "fieldId": "COUNTRY",
+            "fieldLabel": "Country/Region",
+            "valueId": "ca",
+            "valueLabel": "Canada"
+          },
+          {
+            "fieldId": "6904797c56f594d5ed50988d",
+            "fieldLabel": "Work flexibility",
+            "valueId": "ccb10278-8410-4710-b0e7-698fc2195139",
+            "valueLabel": "Office-based"
+          },
+          {
+            "fieldId": "5def94650389ad3cc4be9d17",
+            "fieldLabel": "OU sub location (select when applicable)",
+            "valueId": "8282aec3-a755-4c6d-b27f-88e4344879af",
+            "valueLabel": "Canada"
+          }
+        ],
+        "visibility": "PUBLIC",
+        "ref": "https://api.smartrecruiters.com/v1/companies/Ubisoft2/postings/744000154183674",
+        "language": {
+          "code": "en",
+          "label": "English",
+          "labelNative": "English (US)"
+        }
+      },
+      {
+        "id": "744000154182090",
+        "name": "Programmeur.meuse Engin - OS (Game Network)",
+        "uuid": "3b116d66-fa51-45e0-98d5-3211dfa34d44",
+        "jobAdId": "9f3d2ae2-d4a4-4b92-ab51-1bea8c883a27",
+        "defaultJobAd": true,
+        "refNumber": "REF31766L",
+        "company": {
+          "identifier": "Ubisoft2",
+          "name": "Ubisoft"
+        },
+        "releasedDate": "2026-10-07T19:39:47.906Z",
+        "location": {
+          "city": "Montreal",
+          "region": "QC",
+          "country": "ca",
+          "remote": false,
+          "hybrid": false,
+          "latitude": "45.5018869",
+          "longitude": "-73.56739189999999",
+          "fullLocation": "Montreal, QC, Canada"
+        },
+        "industry": {
+          "id": "entertainment",
+          "label": "Entertainment"
+        },
+        "department": {
+          "id": "13847731",
+          "label": "Ubisoft"
+        },
+        "function": {
+          "id": "engineering",
+          "label": "Engineering"
+        },
+        "typeOfEmployment": {
+          "id": "permanent",
+          "label": "Full-time"
+        },
+        "experienceLevel": {
+          "id": "mid_senior_level",
+          "label": "Mid-Senior Level"
+        },
+        "customField": [
+          {
+            "fieldId": "56c253c2e4b0cabf01d19d37",
+            "fieldLabel": "Organizational Unit",
+            "valueId": "21cb51c2-24e9-4088-8f65-52ce10f74bcf",
+            "valueLabel": "Montréal studio"
+          },
+          {
+            "fieldId": "5bb3995c6d8bc56bc081b87d",
+            "fieldLabel": "Contract",
+            "valueId": "b5a86fc0-2681-4b3c-98b6-b73a4be23ef1",
+            "valueLabel": "Permanent"
+          },
+          {
+            "fieldId": "68e4ce369c52964c7125078a",
+            "fieldLabel": "Job Family",
+            "valueId": "43fccb43-cd89-4548-ab8b-24ab8e79edec",
+            "valueLabel": "Software Development"
+          },
+          {
+            "fieldId": "56d1aa7ae4b0a07f777a4ef4",
+            "fieldLabel": "Brands",
+            "valueId": "default",
+            "valueLabel": "Ubisoft"
+          },
+          {
+            "fieldId": "6904811aa8fa2db78e2ee2ed",
+            "fieldLabel": "Job  Function",
+            "valueId": "8e60dc05-6a4b-413f-b15f-d2835a159f14",
+            "valueLabel": "Software Development Core Tech"
+          },
+          {
+            "fieldId": "691ca2ee342dfb96e5364508",
+            "fieldLabel": "Reference Job",
+            "valueId": "ef182cae-3a69-46c2-8f03-438eb4eaf794",
+            "valueLabel": "Software Developer Core Tech Engine"
+          },
+          {
+            "fieldId": "6a158e3c77b1f5657b57af9d",
+            "fieldLabel": "Management Unit L0&1 (New)",
+            "valueId": "f0bd3708-c5ff-47b1-9104-b83a1b4071d2",
+            "valueLabel": "UBISOFT"
+          },
+          {
+            "fieldId": "58b7e4d0e4b09a6d37a0cd8b",
+            "fieldLabel": "Department",
+            "valueId": "13847731",
+            "valueLabel": "Ubisoft"
+          },
+          {
+            "fieldId": "COUNTRY",
+            "fieldLabel": "Country/Region",
+            "valueId": "ca",
+            "valueLabel": "Canada"
+          },
+          {
+            "fieldId": "6904797c56f594d5ed50988d",
+            "fieldLabel": "Work flexibility",
+            "valueId": "ccb10278-8410-4710-b0e7-698fc2195139",
+            "valueLabel": "Office-based"
+          },
+          {
+            "fieldId": "5def94650389ad3cc4be9d17",
+            "fieldLabel": "OU sub location (select when applicable)",
+            "valueId": "8282aec3-a755-4c6d-b27f-88e4344879af",
+            "valueLabel": "Canada"
+          }
+        ],
+        "visibility": "PUBLIC",
+        "ref": "https://api.smartrecruiters.com/v1/companies/Ubisoft2/postings/744000154182090",
+        "language": {
+          "code": "fr-CA",
+          "label": "French (Canada)",
+          "labelNative": "français (Canada)"
+        }
+      },
+      {
+        "id": "744000154155509",
+        "name": "Business Development Assistant – Internship (6-month) January 2027 (W/M/NB)",
+        "uuid": "c3c94818-a3f2-44a7-a4fe-0f1645d060fd",
+        "jobAdId": "29172618-c171-47b2-ab49-698e3fa62896",
+        "defaultJobAd": false,
+        "refNumber": "REF31995X",
+        "company": {
+          "identifier": "Ubisoft2",
+          "name": "Ubisoft"
+        },
+        "releasedDate": "2026-10-07T16:45:10.506Z",
+        "location": {
+          "city": "Paris",
+          "region": "IDF",
+          "country": "fr",
+          "remote": false,
+          "hybrid": false,
+          "latitude": "48.8575475",
+          "longitude": "2.3513765",
+          "fullLocation": "Paris, IDF, France"
+        },
+        "industry": {
+          "id": "entertainment",
+          "label": "Entertainment"
+        },
+        "department": {
+          "id": "13847731",
+          "label": "Ubisoft"
+        },
+        "function": {
+          "id": "business_development",
+          "label": "Business Development"
+        },
+        "typeOfEmployment": {
+          "id": "intern",
+          "label": "Intern"
+        },
+        "experienceLevel": {
+          "id": "internship",
+          "label": "Internship"
+        },
+        "customField": [
+          {
+            "fieldId": "56c253c2e4b0cabf01d19d37",
+            "fieldLabel": "Organizational Unit",
+            "valueId": "562562fb-aed4-418b-bb83-6b3e2b09c375",
+            "valueLabel": "Central Publishing"
+          },
+          {
+            "fieldId": "56c2539de4b0cabf01d19d36",
+            "fieldLabel": "Recruitment Programs",
+            "valueId": "cb9660da-dde8-48ec-ba09-d33d9bb77edc",
+            "valueLabel": "N/A"
+          },
+          {
+            "fieldId": "5bb3995c6d8bc56bc081b87d",
+            "fieldLabel": "Contract",
+            "valueId": "f932c7ce-c2d6-47b0-bce3-ff3b6f1fa952",
+            "valueLabel": "Internship"
+          },
+          {
+            "fieldId": "68e4ce369c52964c7125078a",
+            "fieldLabel": "Job Family",
+            "valueId": "7526262e-2ec6-4cd3-8bdf-44a79d11ca13",
+            "valueLabel": "Revenue"
+          },
+          {
+            "fieldId": "56d1aa7ae4b0a07f777a4ef4",
+            "fieldLabel": "Brands",
+            "valueId": "default",
+            "valueLabel": "Ubisoft"
+          },
+          {
+            "fieldId": "6904811aa8fa2db78e2ee2ed",
+            "fieldLabel": "Job  Function",
+            "valueId": "e6aba2c1-78ce-4a70-be6d-4a2f4703481b",
+            "valueLabel": "Deal & Business Development"
+          },
+          {
+            "fieldId": "691ca2ee342dfb96e5364508",
+            "fieldLabel": "Reference Job",
+            "valueId": "f8144861-9763-4ae1-82cf-14c968b5d60b",
+            "valueLabel": "Deal & Business Development Trainee"
+          },
+          {
+            "fieldId": "6a158e3c77b1f5657b57af9d",
+            "fieldLabel": "Management Unit L0&1 (New)",
+            "valueId": "f0bd3708-c5ff-47b1-9104-b83a1b4071d2",
+            "valueLabel": "UBISOFT"
+          },
+          {
+            "fieldId": "58b7e4d0e4b09a6d37a0cd8b",
+            "fieldLabel": "Department",
+            "valueId": "13847731",
+            "valueLabel": "Ubisoft"
+          },
+          {
+            "fieldId": "COUNTRY",
+            "fieldLabel": "Country/Region",
+            "valueId": "fr",
+            "valueLabel": "France"
+          },
+          {
+            "fieldId": "6904797c56f594d5ed50988d",
+            "fieldLabel": "Work flexibility",
+            "valueId": "ccb10278-8410-4710-b0e7-698fc2195139",
+            "valueLabel": "Office-based"
+          },
+          {
+            "fieldId": "5def94650389ad3cc4be9d17",
+            "fieldLabel": "OU sub location (select when applicable)",
+            "valueId": "ac8ae7ad-70a6-491d-b848-4625c10b9609",
+            "valueLabel": "N/A"
+          }
+        ],
+        "visibility": "PUBLIC",
+        "ref": "https://api.smartrecruiters.com/v1/companies/Ubisoft2/postings/744000154155509",
+        "language": {
+          "code": "en",
+          "label": "English",
+          "labelNative": "English (US)"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "source": {
+    "url": "https://api.ashbyhq.com/posting-api/job-board/deel",
+    "method": "GET",
+    "fetchedAt": "2026-10-07T20:35:56.215Z",
+    "status": 200,
+    "totalJobs": 0
+  },
+  "sample": {
+    "jobs": [],
+    "apiVersion": "1"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "source": {
+    "url": "https://api.ashbyhq.com/posting-api/job-board/notion",
+    "method": "GET",
+    "fetchedAt": "2026-10-07T20:35:54.607Z",
+    "status": 200,
+    "totalJobs": 133
+  },
+  "sample": {
+    "jobs": [
+      {
+        "id": "1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
+        "title": "Software Engineer, Developer Platform",
+        "department": "Engineering",
+        "team": "Engineering",
+        "employmentType": "FullTime",
+        "location": "San Francisco, California",
+        "secondaryLocations": [
+          {
+            "location": "New York, New York",
+            "address": {
+              "postalAddress": {
+                "addressRegion": "New York",
+                "addressCountry": "United States",
+                "addressLocality": "New York"
+              }
+            }
+          }
+        ],
+        "publishedAt": "2026-08-24T14:44:49.699+00:00",
+        "isListed": true,
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "California",
+            "addressCountry": "United States",
+            "addressLocality": "San Francisco"
+          }
+        },
+        "jobUrl": "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
+        "applyUrl": "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a/application",
+        "descriptionHtml": "<h1>Who We Are</h1><p style=\"min-height:1.5em\">Notion is the collaborative AI workspace where teams and agents <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/watch?v=vkpYpWfEK5s\">think together</a>. We're building one place where your knowledge, projects, meeting…[truncated 8382 chars]",
+        "descriptionPlain": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of indi…[truncated 6296 chars]"
+      },
+      {
+        "id": "05e14247-17c4-4e98-9a13-53828a4e2f13",
+        "title": "Business Development Representative, New York",
+        "department": "Early Career",
+        "team": "Early Career",
+        "employmentType": "FullTime",
+        "location": "New York, New York",
+        "secondaryLocations": [],
+        "publishedAt": "2026-04-02T21:00:55.755+00:00",
+        "isListed": true,
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "New York",
+            "addressCountry": "United States",
+            "addressLocality": "New York"
+          }
+        },
+        "jobUrl": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+        "applyUrl": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13/application",
+        "descriptionHtml": "<h1>Who We Are</h1><p style=\"min-height:1.5em\">Notion is the collaborative AI workspace where teams and agents <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/watch?v=vkpYpWfEK5s\">think together</a>. We're building one place where your knowledge, projects, meeting…[truncated 8042 chars]",
+        "descriptionPlain": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of indi…[truncated 6011 chars]"
+      },
+      {
+        "id": "b21fef72-4864-4a3e-a627-91557a0f8a36",
+        "title": "Business Development Representative, San Francisco",
+        "department": "Early Career",
+        "team": "Early Career",
+        "employmentType": "FullTime",
+        "location": "San Francisco, California",
+        "secondaryLocations": [],
+        "publishedAt": "2026-04-01T23:05:05.541+00:00",
+        "isListed": true,
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "California",
+            "addressCountry": "United States",
+            "addressLocality": "San Francisco"
+          }
+        },
+        "jobUrl": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+        "applyUrl": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36/application",
+        "descriptionHtml": "<h1>Who We Are</h1><p style=\"min-height:1.5em\">Notion is the collaborative AI workspace where teams and agents <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/watch?v=vkpYpWfEK5s\">think together</a>. We're building one place where your knowledge, projects, meeting…[truncated 7852 chars]",
+        "descriptionPlain": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of indi…[truncated 5917 chars]"
+      }
+    ],
+    "apiVersion": "1"
+  }
+}

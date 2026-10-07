@@ -1,0 +1,22 @@
+name: Takedown or opt-out request
+description: For employers who want their listings removed. The site's Takedown page also lists a contact address.
+title: "Takedown: <company name>"
+labels: ["takedown"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We remove a company within a few days of a verified request and stop polling it.
+        For a private request, use the contact address on the site's Takedown page instead.
+  - type: input
+    id: company
+    attributes:
+      label: Company name and domain
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What should be removed, and your relationship to the company
+    validations:
+      required: true

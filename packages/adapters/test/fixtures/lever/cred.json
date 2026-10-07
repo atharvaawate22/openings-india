@@ -1,0 +1,115 @@
+{
+  "source": {
+    "url": "https://api.lever.co/v0/postings/cred?mode=json",
+    "method": "GET",
+    "fetchedAt": "2026-10-07T20:35:43.072Z",
+    "status": 200,
+    "totalJobs": 8
+  },
+  "sample": [
+    {
+      "additional": "",
+      "additionalPlain": "",
+      "categories": {
+        "commitment": "full time",
+        "department": "Prefr",
+        "location": "hyderabad",
+        "team": "finance",
+        "allLocations": [
+          "hyderabad"
+        ]
+      },
+      "createdAt": 1790573982021,
+      "description": "",
+      "descriptionPlain": "",
+      "id": "aa98a938-af3a-45f5-851d-966b2b5bad33",
+      "lists": [
+        {
+          "text": "",
+          "content": "<div>\n<p>Prefr (operated by CreditVidya) is a digital-first lending platform that makes credit accessible to millions across India. with loan offerings ranging from ₹50,000 to ₹5 Lakh, we’re enabling instant personal loans and flexible pay-later credit lines, especially for first-time borrowers and …[truncated 3232 chars]"
+        }
+      ],
+      "text": "accounts payable manager",
+      "country": "IN",
+      "workplaceType": "onsite",
+      "opening": "",
+      "openingPlain": "",
+      "descriptionBody": "",
+      "descriptionBodyPlain": "",
+      "hostedUrl": "https://jobs.lever.co/cred/aa98a938-af3a-45f5-851d-966b2b5bad33",
+      "applyUrl": "https://jobs.lever.co/cred/aa98a938-af3a-45f5-851d-966b2b5bad33/apply"
+    },
+    {
+      "additional": "",
+      "additionalPlain": "",
+      "categories": {
+        "commitment": "full time",
+        "department": "product & growth",
+        "location": "bengaluru",
+        "team": "consumer products",
+        "allLocations": [
+          "bengaluru"
+        ]
+      },
+      "createdAt": 1779729435083,
+      "descriptionPlain": "what is CRED?\n \nCRED is an exclusive community for india’s most trustworthy and creditworthy individuals, where the members are rewarded for good financial behavior. \n \nCRED was born out of a need to bring back the focus on a long lost virtue, one of trust, the idea being to create a community cente…[truncated 1036 chars]",
+      "description": "<div>what is CRED?</div>\n<div>&nbsp;</div>\n<div>CRED is an exclusive community for india’s most trustworthy and creditworthy individuals, where the members are rewarded for good financial behavior.&nbsp;</div>\n<div>&nbsp;</div>\n<div>CRED was born out of a need to bring back the focus on a long lost …[truncated 1532 chars]",
+      "id": "09022710-e79a-4cf0-8060-df0e1cd64263",
+      "lists": [
+        {
+          "text": "what you’ll own",
+          "content": "\n<li>driving acceptance of CRED payment instruments (upi, credit/affordability) with a sole focus of offering convenience for CRED members</li>\n<li>hunt, build and manage high-impact brand partnerships across categories relevant to CRED members</li>\n<li>drive meaningful member value through differen…[truncated 833 chars]"
+        },
+        {
+          "text": "what we’re looking for",
+          "content": "<div>\n\n<li>4+ years of experience in partnerships, business development, merchant growth, enterprise sales, category or account management within consumer internet, fintech, commerce, loyalty, or digital businesses</li>\n<li>experience managing and growing brand or merchant partnerships with measurab…[truncated 790 chars]"
+        }
+      ],
+      "text": "business development & partnerships",
+      "country": "IN",
+      "workplaceType": "onsite",
+      "opening": "",
+      "openingPlain": "",
+      "descriptionBody": "<div>what is CRED?</div>\n<div>&nbsp;</div>\n<div>CRED is an exclusive community for india&rsquo;s most trustworthy and creditworthy individuals, where the members are rewarded for good financial behavior.&nbsp;</div>\n<div>&nbsp;</div>\n<div>CRED was born out of a need to bring back the focus on a long…[truncated 1562 chars]",
+      "descriptionBodyPlain": "what is CRED?\n \nCRED is an exclusive community for india’s most trustworthy and creditworthy individuals, where the members are rewarded for good financial behavior. \n \nCRED was born out of a need to bring back the focus on a long lost virtue, one of trust, the idea being to create a community cente…[truncated 1036 chars]",
+      "hostedUrl": "https://jobs.lever.co/cred/09022710-e79a-4cf0-8060-df0e1cd64263",
+      "applyUrl": "https://jobs.lever.co/cred/09022710-e79a-4cf0-8060-df0e1cd64263/apply"
+    },
+    {
+      "additional": "",
+      "additionalPlain": "",
+      "categories": {
+        "commitment": "full time",
+        "department": "VA Tech",
+        "location": "bengaluru",
+        "team": "business",
+        "allLocations": [
+          "bengaluru"
+        ]
+      },
+      "createdAt": 1784891098085,
+      "descriptionPlain": "VA Tech (a CRED company, formerly Happay) is CRED's B2B payments infrastructure business.\n \nRole Purpose:\nOwn and scale VA Tech's commercial engine – pipeline, enterprise sales, and partnerships — across banks, fintechs, and enterprise ecosystem partners, converting VA Tech's platform capability int…[truncated 36 chars]",
+      "description": "<div><strong>VA Tech (a CRED company, formerly Happay) is CRED's B2B payments infrastructure business.</strong></div>\n<div>&nbsp;</div>\n<div>\n<p>Role Purpose:</p>\n<p>Own and scale VA Tech's commercial engine – pipeline, enterprise sales, and partnerships — across banks, fintechs, and enterprise ecos…[truncated 106 chars]",
+      "id": "b532b595-bc8d-4b51-a2e6-7228ef1cabfc",
+      "lists": [
+        {
+          "text": "What will you do? ",
+          "content": "<p style=\"margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">business development</span></strong></p>\n\n<li><span style=\"font-size: 11pt;\">own pipeline generation across banks, fintechs, and enterprise ecosystem partners.</span></li>\n<li><sp…[truncated 5198 chars]"
+        },
+        {
+          "text": "You should apply if you:",
+          "content": "<div>\n\n<li><span style=\"font-size: 11pt;\">have 7-12yrs of experience in Business Development, Enterprise Sales, or Strategic Partnerships within payments, fintech, or banking infrastructure.</span></li>\n<li><span style=\"font-size: 11pt;\">demonstrated ownership of a commercial pipeline — origination …[truncated 476 chars]"
+        }
+      ],
+      "text": "business development & partnerships – commercial lead",
+      "country": "IN",
+      "workplaceType": "onsite",
+      "opening": "",
+      "openingPlain": "",
+      "descriptionBody": "<div><strong>VA Tech (a CRED company, formerly Happay) is CRED's B2B payments infrastructure business.</strong></div>\n<div>&nbsp;</div>\n<div>\n<p>Role Purpose:</p>\n<p>Own and scale VA Tech's commercial engine &ndash; pipeline, enterprise sales, and partnerships &mdash; across banks, fintechs, and ent…[truncated 118 chars]",
+      "descriptionBodyPlain": "VA Tech (a CRED company, formerly Happay) is CRED's B2B payments infrastructure business.\n \nRole Purpose:\nOwn and scale VA Tech's commercial engine – pipeline, enterprise sales, and partnerships — across banks, fintechs, and enterprise ecosystem partners, converting VA Tech's platform capability int…[truncated 36 chars]",
+      "hostedUrl": "https://jobs.lever.co/cred/b532b595-bc8d-4b51-a2e6-7228ef1cabfc",
+      "applyUrl": "https://jobs.lever.co/cred/b532b595-bc8d-4b51-a2e6-7228ef1cabfc/apply"
+    }
+  ]
+}

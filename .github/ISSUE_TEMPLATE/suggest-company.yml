@@ -1,0 +1,32 @@
+name: Suggest a company
+description: Suggest an employer whose official careers page we should cover.
+title: "Suggest: <company name>"
+labels: ["company-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Only official employer sources are used (the company's own careers page or its ATS feed).
+        Suggestions are reviewed by hand before anything is added.
+  - type: input
+    id: name
+    attributes:
+      label: Company name
+    validations:
+      required: true
+  - type: input
+    id: careers_url
+    attributes:
+      label: Official careers page URL
+      description: The company's own careers page, not LinkedIn, Naukri or another job board.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [mass_recruiter, it_services, faang_big_tech, big4_consulting, product_mnc, semiconductor_electronics, indian_unicorn, startup, bank_fintech, core_engineering, psu, other]
+  - type: textarea
+    id: notes
+    attributes:
+      label: Why it is a good employer for Indian engineering freshers (optional)

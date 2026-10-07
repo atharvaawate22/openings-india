@@ -1,0 +1,10 @@
+{
+  "name": "@openings/discovery",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "verify:sources": "node --env-file-if-exists=../../.env src/verify-sources.ts"
+  },
+  "dependencies": { "@openings/core": "workspace:*" }
+}

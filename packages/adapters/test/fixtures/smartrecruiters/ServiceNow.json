@@ -1,0 +1,353 @@
+{
+  "source": {
+    "url": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings?limit=10",
+    "method": "GET",
+    "fetchedAt": "2026-10-07T20:36:17.865Z",
+    "status": 200,
+    "totalJobs": 10
+  },
+  "sample": {
+    "offset": 0,
+    "limit": 10,
+    "totalFound": 705,
+    "content": [
+      {
+        "id": "744000154191759",
+        "name": "Client Director - Life Sciences - CA",
+        "uuid": "2cc5509a-96f8-460e-ad5e-efa469a9ddbf",
+        "jobAdId": "1a823640-3b09-46bd-aa0b-1a0ca1df6111",
+        "defaultJobAd": true,
+        "refNumber": "JB0076102",
+        "company": {
+          "identifier": "ServiceNow",
+          "name": "ServiceNow"
+        },
+        "releasedDate": "2026-10-07T20:35:01.678Z",
+        "location": {
+          "city": "San Diego",
+          "region": "California",
+          "country": "us",
+          "address": "4810 Eastgate Mall",
+          "postalCode": "92121",
+          "remote": true,
+          "hybrid": false,
+          "fullLocation": "San Diego, California, United States"
+        },
+        "industry": {
+          "id": "it_and_services",
+          "label": "Information Technology And Services"
+        },
+        "department": {
+          "id": "2294208",
+          "label": "Sales"
+        },
+        "function": {
+          "id": "sales",
+          "label": "Sales"
+        },
+        "typeOfEmployment": {
+          "id": "permanent",
+          "label": "Full-time"
+        },
+        "experienceLevel": {
+          "id": "not_applicable",
+          "label": "Not Applicable"
+        },
+        "customField": [
+          {
+            "fieldId": "60345fa28b4ba8595bef1863",
+            "fieldLabel": "Recruiting Team",
+            "valueId": "professional",
+            "valueLabel": "Professional"
+          },
+          {
+            "fieldId": "60345d5c5165a31b17288279",
+            "fieldLabel": "Region",
+            "valueId": "722a833b93e4437798309f43c0d25990",
+            "valueLabel": "AMS - North America and Canada"
+          },
+          {
+            "fieldId": "6034601b43915a29a4b3389b",
+            "fieldLabel": "Job Location",
+            "valueId": "L_RMTE_CA",
+            "valueLabel": "Remote, CA, USA(L_RMTE_CA)"
+          },
+          {
+            "fieldId": "60345e1a0b24a127cbdfa148",
+            "fieldLabel": "Employee Type",
+            "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+            "valueLabel": "Regular"
+          },
+          {
+            "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+            "fieldLabel": "Department",
+            "valueId": "2294208",
+            "valueLabel": "Sales"
+          },
+          {
+            "fieldId": "COUNTRY",
+            "fieldLabel": "Country/Region",
+            "valueId": "us",
+            "valueLabel": "United States"
+          },
+          {
+            "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+            "fieldLabel": "Brands",
+            "valueId": "default",
+            "valueLabel": "ServiceNow"
+          },
+          {
+            "fieldId": "603462175165a31b1728827d",
+            "fieldLabel": "Cost Center",
+            "valueId": "CC3000",
+            "valueLabel": "3000 Sales Reps"
+          },
+          {
+            "fieldId": "618ed92b8f5e5f110e5bfb95",
+            "fieldLabel": "Work Persona",
+            "valueId": "ddd1898d-c9e0-4640-9f8b-9f9a59e2f155",
+            "valueLabel": "Remote"
+          },
+          {
+            "fieldId": "690cc0e8c682c3dbadaa7d73",
+            "fieldLabel": "Job Posting Type",
+            "valueId": "professional",
+            "valueLabel": "Professional"
+          }
+        ],
+        "visibility": "PUBLIC",
+        "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000154191759",
+        "language": {
+          "code": "en",
+          "label": "English",
+          "labelNative": "English (US)"
+        }
+      },
+      {
+        "id": "744000154188579",
+        "name": "Staff Software Engineer",
+        "uuid": "6234bb0b-deea-406d-a90b-3cc4e56fc634",
+        "jobAdId": "3279dde5-6222-4537-b9a8-85821f1bc1ba",
+        "defaultJobAd": true,
+        "refNumber": "JB0076118",
+        "company": {
+          "identifier": "ServiceNow",
+          "name": "ServiceNow"
+        },
+        "releasedDate": "2026-10-07T20:11:08.836Z",
+        "location": {
+          "city": "San Diego",
+          "region": "California",
+          "country": "us",
+          "address": "4810 Eastgate Mall",
+          "postalCode": "92121",
+          "remote": false,
+          "hybrid": true,
+          "hybridDescription": "2 days in office",
+          "fullLocation": "San Diego, California, United States"
+        },
+        "industry": {
+          "id": "it_and_services",
+          "label": "Information Technology And Services"
+        },
+        "department": {
+          "id": "2294038",
+          "label": "Engineering, Infrastructure and Operations"
+        },
+        "function": {
+          "id": "engineering",
+          "label": "Engineering"
+        },
+        "typeOfEmployment": {
+          "id": "permanent",
+          "label": "Full-time"
+        },
+        "experienceLevel": {
+          "id": "not_applicable",
+          "label": "Not Applicable"
+        },
+        "customField": [
+          {
+            "fieldId": "60345fa28b4ba8595bef1863",
+            "fieldLabel": "Recruiting Team",
+            "valueId": "professional",
+            "valueLabel": "Professional"
+          },
+          {
+            "fieldId": "60345d5c5165a31b17288279",
+            "fieldLabel": "Region",
+            "valueId": "722a833b93e4437798309f43c0d25990",
+            "valueLabel": "AMS - North America and Canada"
+          },
+          {
+            "fieldId": "6034601b43915a29a4b3389b",
+            "fieldLabel": "Job Location",
+            "valueId": "L_SAN003",
+            "valueLabel": "4810 Eastgate Mall, San Diego, California, 92121, United States of America(L_SAN003)"
+          },
+          {
+            "fieldId": "60345e1a0b24a127cbdfa148",
+            "fieldLabel": "Employee Type",
+            "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+            "valueLabel": "Regular"
+          },
+          {
+            "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+            "fieldLabel": "Department",
+            "valueId": "2294038",
+            "valueLabel": "Engineering, Infrastructure and Operations"
+          },
+          {
+            "fieldId": "COUNTRY",
+            "fieldLabel": "Country/Region",
+            "valueId": "us",
+            "valueLabel": "United States"
+          },
+          {
+            "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+            "fieldLabel": "Brands",
+            "valueId": "default",
+            "valueLabel": "ServiceNow"
+          },
+          {
+            "fieldId": "603462175165a31b1728827d",
+            "fieldLabel": "Cost Center",
+            "valueId": "CC6328",
+            "valueLabel": "6328 PAXE - Core UI Experience"
+          },
+          {
+            "fieldId": "618ed92b8f5e5f110e5bfb95",
+            "fieldLabel": "Work Persona",
+            "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+            "valueLabel": "Flexible or Remote"
+          },
+          {
+            "fieldId": "690cc0e8c682c3dbadaa7d73",
+            "fieldLabel": "Job Posting Type",
+            "valueId": "professional",
+            "valueLabel": "Professional"
+          }
+        ],
+        "visibility": "PUBLIC",
+        "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000154188579",
+        "language": {
+          "code": "en",
+          "label": "English",
+          "labelNative": "English (US)"
+        }
+      },
+      {
+        "id": "744000154177445",
+        "name": "Staff Software Engineer",
+        "uuid": "f73cda0c-0065-4e47-9095-3f15a0b6a79f",
+        "jobAdId": "cf383cd5-6cac-4f2b-a935-d3b44a49c8eb",
+        "defaultJobAd": true,
+        "refNumber": "JB0075470",
+        "company": {
+          "identifier": "ServiceNow",
+          "name": "ServiceNow"
+        },
+        "releasedDate": "2026-10-07T18:59:24.787Z",
+        "location": {
+          "city": "Chicago",
+          "region": "Illinois",
+          "country": "us",
+          "address": "Twelve01West 176 North Racine Ave Suite 500",
+          "postalCode": "60607",
+          "remote": false,
+          "hybrid": false,
+          "fullLocation": "Chicago, Illinois, United States"
+        },
+        "industry": {
+          "id": "it_and_services",
+          "label": "Information Technology And Services"
+        },
+        "department": {
+          "id": "3205510",
+          "label": "Digital Technology"
+        },
+        "function": {
+          "id": "engineering",
+          "label": "Engineering"
+        },
+        "typeOfEmployment": {
+          "id": "permanent",
+          "label": "Full-time"
+        },
+        "experienceLevel": {
+          "id": "not_applicable",
+          "label": "Not Applicable"
+        },
+        "customField": [
+          {
+            "fieldId": "60345fa28b4ba8595bef1863",
+            "fieldLabel": "Recruiting Team",
+            "valueId": "professional",
+            "valueLabel": "Professional"
+          },
+          {
+            "fieldId": "60345d5c5165a31b17288279",
+            "fieldLabel": "Region",
+            "valueId": "722a833b93e4437798309f43c0d25990",
+            "valueLabel": "AMS - North America and Canada"
+          },
+          {
+            "fieldId": "6034601b43915a29a4b3389b",
+            "fieldLabel": "Job Location",
+            "valueId": "L_CHI004",
+            "valueLabel": "176 North Racine Ave, Chicago, Illinois, 60607, United States of America(L_CHI004)"
+          },
+          {
+            "fieldId": "60345e1a0b24a127cbdfa148",
+            "fieldLabel": "Employee Type",
+            "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+            "valueLabel": "Regular"
+          },
+          {
+            "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+            "fieldLabel": "Department",
+            "valueId": "3205510",
+            "valueLabel": "Digital Technology"
+          },
+          {
+            "fieldId": "COUNTRY",
+            "fieldLabel": "Country/Region",
+            "valueId": "us",
+            "valueLabel": "United States"
+          },
+          {
+            "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+            "fieldLabel": "Brands",
+            "valueId": "default",
+            "valueLabel": "ServiceNow"
+          },
+          {
+            "fieldId": "603462175165a31b1728827d",
+            "fieldLabel": "Cost Center",
+            "valueId": "CC5400",
+            "valueLabel": "5400 Tech Ops Infrastructure"
+          },
+          {
+            "fieldId": "618ed92b8f5e5f110e5bfb95",
+            "fieldLabel": "Work Persona",
+            "valueId": "e5efb1ea-f0e1-4bc5-94b6-d5072787c528",
+            "valueLabel": "Required in Office"
+          },
+          {
+            "fieldId": "690cc0e8c682c3dbadaa7d73",
+            "fieldLabel": "Job Posting Type",
+            "valueId": "professional",
+            "valueLabel": "Professional"
+          }
+        ],
+        "visibility": "PUBLIC",
+        "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000154177445",
+        "language": {
+          "code": "en",
+          "label": "English",
+          "labelNative": "English (US)"
+        }
+      }
+    ]
+  }
+}
